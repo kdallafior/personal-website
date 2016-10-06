@@ -92,17 +92,33 @@ textarea {
 }
 
 /* ==========================================================================
-   Author's custom styles
+   My custom styles
    ========================================================================== */
 
+   
+   .dis {
+   display: inline-block;
+   }
 
+   .red {
+   background-color: #ff0000;
+   /*don't need to have these separate*/
+   /*margin-top: 100px;
+   margin-left: 10px;*/
+   margin: 100px 0 0 10px;
+   height: 100px;
+   width: 100px;
+   padding-left: 60px;
+   }
 
-
-
-
-
-
-
+   .yellow {
+     background-color: #faed1f;
+     /*margin-top: 100px;
+     margin-left: 10px;*/
+     /*margin: 100px 10px 10px 10px;*/
+     height: 100px;
+     width: 100px;
+   }
 
 
 
